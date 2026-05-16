@@ -1,6 +1,3 @@
-%Rishabh Barnwal%
-%2020A7PS1677P%
-%2023%
 close all;
 clear;
 clc;
